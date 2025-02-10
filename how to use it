@@ -1,0 +1,11 @@
+Finds the most recently installed tweak.
+Moves the tweak's .plist and .dylib to a backup folder.
+Resprings the device (sbreload).
+If Safe Mode is gone, the tweak was causing the issue.
+
+
+
+to run it on the ios simply follow these steps
+chmod +x safemodefix.sh
+./safemodefix.sh
+
